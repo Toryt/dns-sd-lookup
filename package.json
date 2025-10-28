@@ -31,7 +31,7 @@
     "@toryt/contracts-v": "^5.0.0",
     "deeper": "^2.1.0",
     "denodeify": "^1.2.1",
-    "validator": "^13.1.17"
+    "validator": "^13.15.20"
   },
   "devDependencies": {
     "@ppwcode/terraform-ppwcode-modules": "^6.1.0",
